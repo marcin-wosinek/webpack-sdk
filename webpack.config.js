@@ -1,7 +1,7 @@
 export default {
   output: {
     library: {
-      type: "commonjs",
+      type: "umd",
       name: "sdk",
     },
     filename: "sdk.js",
