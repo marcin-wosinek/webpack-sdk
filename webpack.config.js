@@ -1,6 +1,7 @@
-module.exports = {
+export default {
   output: {
     library: {
+      name: "sdk",
       type: "window",
     },
   },
